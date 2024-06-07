@@ -1,0 +1,526 @@
+#EXTINF:-1,UK Zee Cinema
+http://iptvport.net:80/Claire2342/Claire3333/175781.m3u8
+#EXTINF:-1,UK 4Music
+http://iptvport.net:80/Claire2342/Claire3333/189871.m3u8
+#EXTINF:-1,UK 5 Star
+http://iptvport.net:80/Claire2342/Claire3333/189874.m3u8
+#EXTINF:-1,UK Aaj Tak
+http://iptvport.net:80/Claire2342/Claire3333/189876.m3u8
+#EXTINF:-1,UK ABP News
+http://iptvport.net:80/Claire2342/Claire3333/189878.m3u8
+#EXTINF:-1,UK AL JAZEERA HD
+http://iptvport.net:80/Claire2342/Claire3333/189879.m3u8
+#EXTINF:-1,UK B4U PLUS
+http://iptvport.net:80/Claire2342/Claire3333/189888.m3u8
+#EXTINF:-1,UK baby tv
+http://iptvport.net:80/Claire2342/Claire3333/189889.m3u8
+#EXTINF:-1,UK BBC 1
+http://iptvport.net:80/Claire2342/Claire3333/189890.m3u8
+#EXTINF:-1,UK BBC 2
+http://iptvport.net:80/Claire2342/Claire3333/189891.m3u8
+#EXTINF:-1,UK BBC News HD
+http://iptvport.net:80/Claire2342/Claire3333/189894.m3u8
+#EXTINF:-1,UK BBC Parliament
+http://iptvport.net:80/Claire2342/Claire3333/189898.m3u8
+#EXTINF:-1,UK BBC Two Northern Ireland
+http://iptvport.net:80/Claire2342/Claire3333/189900.m3u8
+#EXTINF:-1,UK BBC World News
+http://iptvport.net:80/Claire2342/Claire3333/189903.m3u8
+#EXTINF:-1,UK BLOOMBERG HD
+http://iptvport.net:80/Claire2342/Claire3333/189906.m3u8
+#EXTINF:-1,UK Cartoonito
+http://iptvport.net:80/Claire2342/Claire3333/189913.m3u8
+#EXTINF:-1,UK Channel 4 HD
+http://iptvport.net:80/Claire2342/Claire3333/189920.m3u8
+#EXTINF:-1,UK Channel 5
+http://iptvport.net:80/Claire2342/Claire3333/189921.m3u8
+#EXTINF:-1,UK CNBC News
+http://iptvport.net:80/Claire2342/Claire3333/189923.m3u8
+#EXTINF:-1,UK CNN HD
+http://iptvport.net:80/Claire2342/Claire3333/189924.m3u8
+#EXTINF:-1,UK Colors
+http://iptvport.net:80/Claire2342/Claire3333/189925.m3u8
+#EXTINF:-1,UK Colors Rishtey
+http://iptvport.net:80/Claire2342/Claire3333/189926.m3u8
+#EXTINF:-1,UK Comedy Central Extra
+http://iptvport.net:80/Claire2342/Claire3333/189928.m3u8
+#EXTINF:-1,UK Comedy Central FHD
+http://iptvport.net:80/Claire2342/Claire3333/189929.m3u8
+#EXTINF:-1,UK Crime & Investigation HD
+http://iptvport.net:80/Claire2342/Claire3333/189930.m3u8
+#EXTINF:-1,UK Dave HD
+http://iptvport.net:80/Claire2342/Claire3333/189931.m3u8
+#EXTINF:-1,UK Discovery
+http://iptvport.net:80/Claire2342/Claire3333/189932.m3u8
+#EXTINF:-1,UK Discovery Science
+http://iptvport.net:80/Claire2342/Claire3333/189934.m3u8
+#EXTINF:-1,UK E!
+http://iptvport.net:80/Claire2342/Claire3333/189941.m3u8
+#EXTINF:-1,UK EDEN HD
+http://iptvport.net:80/Claire2342/Claire3333/189944.m3u8
+#EXTINF:-1,UK Film 4 HD
+http://iptvport.net:80/Claire2342/Claire3333/189945.m3u8
+#EXTINF:-1,UK Gold
+http://iptvport.net:80/Claire2342/Claire3333/189951.m3u8
+#EXTINF:-1,UK Horse and Country
+http://iptvport.net:80/Claire2342/Claire3333/189957.m3u8
+#EXTINF:-1,UK Itv 4
+http://iptvport.net:80/Claire2342/Claire3333/189961.m3u8
+#EXTINF:-1,UK ITVBE
+http://iptvport.net:80/Claire2342/Claire3333/189962.m3u8
+#EXTINF:-1,UK MTV Classic
+http://iptvport.net:80/Claire2342/Claire3333/189970.m3u8
+#EXTINF:-1,UK MTV FHD
+http://iptvport.net:80/Claire2342/Claire3333/189973.m3u8
+#EXTINF:-1,UK MTV Hits HD
+http://iptvport.net:80/Claire2342/Claire3333/189974.m3u8
+#EXTINF:-1,UK MTV Music
+http://iptvport.net:80/Claire2342/Claire3333/189975.m3u8
+#EXTINF:-1,UK Nat Geo
+http://iptvport.net:80/Claire2342/Claire3333/189979.m3u8
+#EXTINF:-1,UK Nick Junior HD
+http://iptvport.net:80/Claire2342/Claire3333/189981.m3u8
+#EXTINF:-1,UK Nick Junior Too
+http://iptvport.net:80/Claire2342/Claire3333/189982.m3u8
+#EXTINF:-1,UK NICK TOONS
+http://iptvport.net:80/Claire2342/Claire3333/189983.m3u8
+#EXTINF:-1,UK: POP Channel
+http://iptvport.net:80/Claire2342/Claire3333/189986.m3u8
+#EXTINF:-1,UK Quest Red HD
+http://iptvport.net:80/Claire2342/Claire3333/189988.m3u8
+#EXTINF:-1,UK Sky Sports Racing
+http://iptvport.net:80/Claire2342/Claire3333/189989.m3u8
+#EXTINF:-1,IR: RTE One
+http://iptvport.net:80/Claire2342/Claire3333/189996.m3u8
+#EXTINF:-1,UK SKY One
+http://iptvport.net:80/Claire2342/Claire3333/189999.m3u8
+#EXTINF:-1,UK Sky News
+http://iptvport.net:80/Claire2342/Claire3333/190003.m3u8
+#EXTINF:-1,UK Star Bharat
+http://iptvport.net:80/Claire2342/Claire3333/190008.m3u8
+#EXTINF:-1,UK Star Gold
+http://iptvport.net:80/Claire2342/Claire3333/190009.m3u8
+#EXTINF:-1,UK STV HD
+http://iptvport.net:80/Claire2342/Claire3333/190011.m3u8
+#EXTINF:-1,UK TLC
+http://iptvport.net:80/Claire2342/Claire3333/190017.m3u8
+#EXTINF:-1,UK Travel Channel
+http://iptvport.net:80/Claire2342/Claire3333/190018.m3u8
+#EXTINF:-1,UK Watch
+http://iptvport.net:80/Claire2342/Claire3333/190027.m3u8
+#EXTINF:-1,UK Zing
+http://iptvport.net:80/Claire2342/Claire3333/190030.m3u8
+#EXTINF:-1,UK Clubland
+http://iptvport.net:80/Claire2342/Claire3333/208457.m3u8
+#EXTINF:-1,UK Sky Cinema Premiere
+http://iptvport.net:80/Claire2342/Claire3333/228272.m3u8
+#EXTINF:-1,UK Sky Cinema Thriller
+http://iptvport.net:80/Claire2342/Claire3333/228284.m3u8
+#EXTINF:-1,UK Sky Cinema Greats
+http://iptvport.net:80/Claire2342/Claire3333/228287.m3u8
+#EXTINF:-1,UK Sky Cinema Comedy
+http://iptvport.net:80/Claire2342/Claire3333/228290.m3u8
+#EXTINF:-1,UK Sky Cinema Action & Adventure
+http://iptvport.net:80/Claire2342/Claire3333/228291.m3u8
+#EXTINF:-1,IRE: VIRGIN MEDIA ONE
+http://iptvport.net:80/Claire2342/Claire3333/391164.m3u8
+#EXTINF:-1,UK DESTINATION AMERICA HD
+http://iptvport.net:80/Claire2342/Claire3333/391193.m3u8
+#EXTINF:-1,UK EURONEWS HD
+http://iptvport.net:80/Claire2342/Claire3333/391197.m3u8
+#EXTINF:-1,UK RT NEWS HD
+http://iptvport.net:80/Claire2342/Claire3333/391198.m3u8
+#EXTINF:-1,UK E4
+http://iptvport.net:80/Claire2342/Claire3333/391210.m3u8
+#EXTINF:-1,UK POP MAX SD
+http://iptvport.net:80/Claire2342/Claire3333/391248.m3u8
+#EXTINF:-1,UK 5 USA
+http://iptvport.net:80/Claire2342/Claire3333/391253.m3u8
+#EXTINF:-1,UK AMC
+http://iptvport.net:80/Claire2342/Claire3333/391263.m3u8
+#EXTINF:-1,UK: MTV 80s
+http://iptvport.net:80/Claire2342/Claire3333/391284.m3u8
+#EXTINF:-1,UK KISS SD
+http://iptvport.net:80/Claire2342/Claire3333/391299.m3u8
+#EXTINF:-1,UK FREESPORTS
+http://iptvport.net:80/Claire2342/Claire3333/391307.m3u8
+#EXTINF:-1,UK HORROR CHANNEL
+http://iptvport.net:80/Claire2342/Claire3333/391308.m3u8
+#EXTINF:-1,UK KERRANG SD
+http://iptvport.net:80/Claire2342/Claire3333/391321.m3u8
+#EXTINF:-1,UK PBS AMERICA SD
+http://iptvport.net:80/Claire2342/Claire3333/391325.m3u8
+#EXTINF:-1,UK THE BOX SD
+http://iptvport.net:80/Claire2342/Claire3333/391329.m3u8
+#EXTINF:-1,UK EuroSport 1 HD
+http://iptvport.net:80/Claire2342/Claire3333/391450.m3u8
+#EXTINF:-1,UK ITV 2 HD
+http://iptvport.net:80/Claire2342/Claire3333/391480.m3u8
+#EXTINF:-1,UK MORE 4 FHD
+http://iptvport.net:80/Claire2342/Claire3333/391498.m3u8
+#EXTINF:-1,UK Alibi
+http://iptvport.net:80/Claire2342/Claire3333/391257.m3u8
+#EXTINF:-1,UK Blaze
+http://iptvport.net:80/Claire2342/Claire3333/189905.m3u8
+#EXTINF:-1,UK Sky Atlantic
+http://iptvport.net:80/Claire2342/Claire3333/190001.m3u8
+#EXTINF:-1,UK MTV Base
+http://iptvport.net:80/Claire2342/Claire3333/189969.m3u8
+#EXTINF:-1,UK Nickelodeon
+http://iptvport.net:80/Claire2342/Claire3333/189984.m3u8
+#EXTINF:-1,UK CBBC
+http://iptvport.net:80/Claire2342/Claire3333/189914.m3u8
+#EXTINF:-1,UK Sky Cinema Hits
+http://iptvport.net:80/Claire2342/Claire3333/228286.m3u8
+#EXTINF:-1,UK BBC One Northern Ireland
+http://iptvport.net:80/Claire2342/Claire3333/189895.m3u8
+#EXTINF:-1,UK Nat Geo Wild
+http://iptvport.net:80/Claire2342/Claire3333/189980.m3u8
+#EXTINF:-1,UK Food Network
+http://iptvport.net:80/Claire2342/Claire3333/189947.m3u8
+#EXTINF:-1,UK Investigation Discovery
+http://iptvport.net:80/Claire2342/Claire3333/189958.m3u8
+#EXTINF:-1,UK Sony Channel
+http://iptvport.net:80/Claire2342/Claire3333/190007.m3u8
+#EXTINF:-1,UK 5 Select HD
+http://iptvport.net:80/Claire2342/Claire3333/391500.m3u8
+#EXTINF:-1,UK: Sky Mix FHD (Pick)
+http://iptvport.net:80/Claire2342/Claire3333/391327.m3u8
+#EXTINF:-1,UK ANIMAL PLANET
+http://iptvport.net:80/Claire2342/Claire3333/391170.m3u8
+#EXTINF:-1,UK Zee TV
+http://iptvport.net:80/Claire2342/Claire3333/190029.m3u8
+#EXTINF:-1,UK Sky 2 FHD
+http://iptvport.net:80/Claire2342/Claire3333/515731.m3u8
+#EXTINF:-1,UK BT Sports ESPN HD
+http://iptvport.net:80/Claire2342/Claire3333/515737.m3u8
+#EXTINF:-1,IRE: VIRGIN MEDIA TWO HD
+http://iptvport.net:80/Claire2342/Claire3333/391165.m3u8
+#EXTINF:-1,UK Racing FHD
+http://iptvport.net:80/Claire2342/Claire3333/709536.m3u8
+#EXTINF:-1,UK Sky Arts
+http://iptvport.net:80/Claire2342/Claire3333/190000.m3u8
+#EXTINF:-1,UK Really
+http://iptvport.net:80/Claire2342/Claire3333/189990.m3u8
+#EXTINF:-1,UK CELTIC TV (Match time only)
+http://iptvport.net:80/Claire2342/Claire3333/391313.m3u8
+#EXTINF:-1,UK RED BULL TV FHD
+http://iptvport.net:80/Claire2342/Claire3333/391476.m3u8
+#EXTINF:-1,UK Sab TV (SET)
+http://iptvport.net:80/Claire2342/Claire3333/189998.m3u8
+#EXTINF:-1,UK: MTV Classic
+http://iptvport.net:80/Claire2342/Claire3333/1074446.m3u8
+#EXTINF:-1,UK MOTORS FHD
+http://iptvport.net:80/Claire2342/Claire3333/391473.m3u8
+#EXTINF:-1,UK France 24 English
+http://iptvport.net:80/Claire2342/Claire3333/189950.m3u8
+#EXTINF:-1,UK MUTV HD
+http://iptvport.net:80/Claire2342/Claire3333/189978.m3u8
+#EXTINF:-1,UK MTV LIVE FHD
+http://iptvport.net:80/Claire2342/Claire3333/391289.m3u8
+#EXTINF:-1,UK B4U Music
+http://iptvport.net:80/Claire2342/Claire3333/189887.m3u8
+#EXTINF:-1,UK ICONCERTS
+http://iptvport.net:80/Claire2342/Claire3333/188357.m3u8
+#EXTINF:-1,UK Faith World TV SD
+http://iptvport.net:80/Claire2342/Claire3333/1139081.m3u8
+#EXTINF:-1,UK ITV 1 HD
+http://iptvport.net:80/Claire2342/Claire3333/1151892.m3u8
+#EXTINF:-1,UK BBC One Wales
+http://iptvport.net:80/Claire2342/Claire3333/189897.m3u8
+#EXTINF:-1,UK Life Time HD
+http://iptvport.net:80/Claire2342/Claire3333/189964.m3u8
+#EXTINF:-1,UK SkySports F1
+http://iptvport.net:80/Claire2342/Claire3333/1196396.m3u8
+#EXTINF:-1,UK Kicc TV
+http://iptvport.net:80/Claire2342/Claire3333/1138964.m3u8
+#EXTINF:-1,EPL: Astro SuperSport 1 HD
+http://iptvport.net:80/Claire2342/Claire3333/1391035.m3u8
+#EXTINF:-1,UK TRT World
+http://iptvport.net:80/Claire2342/Claire3333/1395476.m3u8
+#EXTINF:-1,UK Zee Cinema
+http://iptvport.net:80/Claire2342/Claire3333/1396380.m3u8
+#EXTINF:-1,UK Sony TV UK
+http://iptvport.net:80/Claire2342/Claire3333/1396382.m3u8
+#EXTINF:-1,UK ARY News
+http://iptvport.net:80/Claire2342/Claire3333/1396389.m3u8
+#EXTINF:-1,UK BT SPORTS EXTRA 5 HD
+http://iptvport.net:80/Claire2342/Claire3333/1400409.m3u8
+#EXTINF:-1,UK BT SPORTS EXTRA 6 HD
+http://iptvport.net:80/Claire2342/Claire3333/1400410.m3u8
+#EXTINF:-1,UK: EURO NEWS
+http://iptvport.net:80/Claire2342/Claire3333/1402296.m3u8
+#EXTINF:-1,UK Colors Europe
+http://iptvport.net:80/Claire2342/Claire3333/1122052.m3u8
+#EXTINF:-1,UK BBC Scotland
+http://iptvport.net:80/Claire2342/Claire3333/1447404.m3u8
+#EXTINF:-1,UK MSNBC TV
+http://iptvport.net:80/Claire2342/Claire3333/1395477.m3u8
+#EXTINF:-1,UK Disney Channel FHD
+http://iptvport.net:80/Claire2342/Claire3333/1661120.m3u8
+#EXTINF:-1,UK C ITV
+http://iptvport.net:80/Claire2342/Claire3333/189911.m3u8
+#EXTINF:-1,UK SKY SPORTS GOLF HD
+http://iptvport.net:80/Claire2342/Claire3333/391434.m3u8
+#EXTINF:-1,UK Sky Two
+http://iptvport.net:80/Claire2342/Claire3333/190005.m3u8
+#EXTINF:-1,UK Tiny Pop
+http://iptvport.net:80/Claire2342/Claire3333/190016.m3u8
+#EXTINF:-1,UK: Sky Disney HD
+http://iptvport.net:80/Claire2342/Claire3333/1661205.m3u8
+#EXTINF:-1,UK Star Plus (Utsav Plus)
+http://iptvport.net:80/Claire2342/Claire3333/190010.m3u8
+#EXTINF:-1,UK Viceland HD
+http://iptvport.net:80/Claire2342/Claire3333/190026.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 1
+http://iptvport.net:80/Claire2342/Claire3333/1391046.m3u8
+#EXTINF:-1,UK: Islam Channel HD
+http://iptvport.net:80/Claire2342/Claire3333/1751910.m3u8
+#EXTINF:-1,UK: Eman Channel SD
+http://iptvport.net:80/Claire2342/Claire3333/1751911.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 2
+http://iptvport.net:80/Claire2342/Claire3333/1391047.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 3
+http://iptvport.net:80/Claire2342/Claire3333/1391048.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 4
+http://iptvport.net:80/Claire2342/Claire3333/1391049.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 5
+http://iptvport.net:80/Claire2342/Claire3333/1391050.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 6
+http://iptvport.net:80/Claire2342/Claire3333/1391051.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 7
+http://iptvport.net:80/Claire2342/Claire3333/1391052.m3u8
+#EXTINF:-1,UK Ary Qtv
+http://iptvport.net:80/Claire2342/Claire3333/1768476.m3u8
+#EXTINF:-1,UK MTV Club
+http://iptvport.net:80/Claire2342/Claire3333/1768479.m3u8
+#EXTINF:-1,UK MTV Rocks
+http://iptvport.net:80/Claire2342/Claire3333/1768480.m3u8
+#EXTINF:-1,UK Sony Entertainment
+http://iptvport.net:80/Claire2342/Claire3333/1396381.m3u8
+#EXTINF:-1,UK: Ary Muzik
+http://iptvport.net:80/Claire2342/Claire3333/1769147.m3u8
+#EXTINF:-1,UK Cartoon Network
+http://iptvport.net:80/Claire2342/Claire3333/1769152.m3u8
+#EXTINF:-1,UK Sky Cinema Musicals
+http://iptvport.net:80/Claire2342/Claire3333/1769155.m3u8
+#EXTINF:-1,UK Sky Sports Cricket
+http://iptvport.net:80/Claire2342/Claire3333/1769162.m3u8
+#EXTINF:-1,UK VH1
+http://iptvport.net:80/Claire2342/Claire3333/1769216.m3u8
+#EXTINF:-1,UK Sky Sports Premier League
+http://iptvport.net:80/Claire2342/Claire3333/1821337.m3u8
+#EXTINF:-1,UK BBC Two Wales
+http://iptvport.net:80/Claire2342/Claire3333/189902.m3u8
+#EXTINF:-1,UK BRITISH MUSLIM TV SD
+http://iptvport.net:80/Claire2342/Claire3333/391196.m3u8
+#EXTINF:-1,UK History 2
+http://iptvport.net:80/Claire2342/Claire3333/189953.m3u8
+#EXTINF:-1,UK London Live
+http://iptvport.net:80/Claire2342/Claire3333/189965.m3u8
+#EXTINF:-1,UK: GB News
+http://iptvport.net:80/Claire2342/Claire3333/1836213.m3u8
+#EXTINF:-1,UK DISNEY JUNIOR FHD
+http://iptvport.net:80/Claire2342/Claire3333/391238.m3u8
+#EXTINF:-1,UK: Eurosport 1 HD
+http://iptvport.net:80/Claire2342/Claire3333/1846756.m3u8
+#EXTINF:-1,UK TNT Sports 1
+http://iptvport.net:80/Claire2342/Claire3333/1846762.m3u8
+#EXTINF:-1,UK TNT Sports 2
+http://iptvport.net:80/Claire2342/Claire3333/1846763.m3u8
+#EXTINF:-1,UK TNT Sports 3
+http://iptvport.net:80/Claire2342/Claire3333/1846764.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 1 HD
+http://iptvport.net:80/Claire2342/Claire3333/1846767.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 2 HD
+http://iptvport.net:80/Claire2342/Claire3333/1846768.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 3 HD
+http://iptvport.net:80/Claire2342/Claire3333/1846769.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 4 HD
+http://iptvport.net:80/Claire2342/Claire3333/1846770.m3u8
+#EXTINF:-1,UK Sky Sports Action
+http://iptvport.net:80/Claire2342/Claire3333/1846771.m3u8
+#EXTINF:-1,UK Sky Sports Arena
+http://iptvport.net:80/Claire2342/Claire3333/1846772.m3u8
+#EXTINF:-1,UK Sky Sports F1
+http://iptvport.net:80/Claire2342/Claire3333/1846774.m3u8
+#EXTINF:-1,UK Sky Sports Football
+http://iptvport.net:80/Claire2342/Claire3333/1846775.m3u8
+#EXTINF:-1,UK: Eurosport 2 HD
+http://iptvport.net:80/Claire2342/Claire3333/1847082.m3u8
+#EXTINF:-1,UK Sky Sports Main Events
+http://iptvport.net:80/Claire2342/Claire3333/1847084.m3u8
+#EXTINF:-1,UK Sky Sports News
+http://iptvport.net:80/Claire2342/Claire3333/1769168.m3u8
+#EXTINF:-1,UK Sky Sports MIX
+http://iptvport.net:80/Claire2342/Claire3333/1847433.m3u8
+#EXTINF:-1,UK Sky Cinema Drama
+http://iptvport.net:80/Claire2342/Claire3333/228295.m3u8
+#EXTINF:-1,UK Now 80s
+http://iptvport.net:80/Claire2342/Claire3333/1851506.m3u8
+#EXTINF:-1,UK BBC Four
+http://iptvport.net:80/Claire2342/Claire3333/1858077.m3u8
+#EXTINF:-1,EPL: Optus Sport 3
+http://iptvport.net:80/Claire2342/Claire3333/1391041.m3u8
+#EXTINF:-1,EPL: Optus Sport 4
+http://iptvport.net:80/Claire2342/Claire3333/1391042.m3u8
+#EXTINF:-1,EPL: Optus Sport 5
+http://iptvport.net:80/Claire2342/Claire3333/1391043.m3u8
+#EXTINF:-1,EPL: Optus Sport 2
+http://iptvport.net:80/Claire2342/Claire3333/1391040.m3u8
+#EXTINF:-1,UK WION  FHD
+http://iptvport.net:80/Claire2342/Claire3333/1900579.m3u8
+#EXTINF:-1,UK Great Movies
+http://iptvport.net:80/Claire2342/Claire3333/1851508.m3u8
+#EXTINF:-1,UK BBC Two Scotland
+http://iptvport.net:80/Claire2342/Claire3333/1768478.m3u8
+#EXTINF:-1,UK BET
+http://iptvport.net:80/Claire2342/Claire3333/189904.m3u8
+#EXTINF:-1,UK Club MTV
+http://iptvport.net:80/Claire2342/Claire3333/189971.m3u8
+#EXTINF:-1,UK RTE News Now
+http://iptvport.net:80/Claire2342/Claire3333/189995.m3u8
+#EXTINF:-1,UK DISNEY XD
+http://iptvport.net:80/Claire2342/Claire3333/2060757.m3u8
+#EXTINF:-1,UK: Sky Cinema Sci-fi & Horror
+http://iptvport.net:80/Claire2342/Claire3333/2060758.m3u8
+#EXTINF:-1,UK 4SEVEN
+http://iptvport.net:80/Claire2342/Claire3333/189872.m3u8
+#EXTINF:-1,UK DMAX HD
+http://iptvport.net:80/Claire2342/Claire3333/2063022.m3u8
+#EXTINF:-1,UK Discovery Turbo
+http://iptvport.net:80/Claire2342/Claire3333/189936.m3u8
+#EXTINF:-1,UK: Magic TV
+http://iptvport.net:80/Claire2342/Claire3333/2094028.m3u8
+#EXTINF:-1,UK SKY CINEMA CRIME & THRILLER
+http://iptvport.net:80/Claire2342/Claire3333/391353.m3u8
+#EXTINF:-1,UK BOOMERANG TV
+http://iptvport.net:80/Claire2342/Claire3333/391241.m3u8
+#EXTINF:-1,UK Drama
+http://iptvport.net:80/Claire2342/Claire3333/189940.m3u8
+#EXTINF:-1,UK Sky Cinema Sci-fi
+http://iptvport.net:80/Claire2342/Claire3333/228281.m3u8
+#EXTINF:-1,UK BBC One HD
+http://iptvport.net:80/Claire2342/Claire3333/2104319.m3u8
+#EXTINF:-1,UK: Sky History HD
+http://iptvport.net:80/Claire2342/Claire3333/2113484.m3u8
+#EXTINF:-1,UK BBC One Scotland
+http://iptvport.net:80/Claire2342/Claire3333/2124836.m3u8
+#EXTINF:-1,SPFL: Celtic TV (Live On Matchday)
+http://iptvport.net:80/Claire2342/Claire3333/2134200.m3u8
+#EXTINF:-1,UK TRU TV
+http://iptvport.net:80/Claire2342/Claire3333/391499.m3u8
+#EXTINF:-1,UK S4C
+http://iptvport.net:80/Claire2342/Claire3333/189997.m3u8
+#EXTINF:-1,EPL: Now HK Premier Sports 8
+http://iptvport.net:80/Claire2342/Claire3333/1391053.m3u8
+#EXTINF:-1,UK History Channel FHD
+http://iptvport.net:80/Claire2342/Claire3333/189954.m3u8
+#EXTINF:-1,UK: Now 70s
+http://iptvport.net:80/Claire2342/Claire3333/2207518.m3u8
+#EXTINF:-1,UK Discovery History
+http://iptvport.net:80/Claire2342/Claire3333/189933.m3u8
+#EXTINF:-1,UK TNT Sports 4
+http://iptvport.net:80/Claire2342/Claire3333/2274006.m3u8
+#EXTINF:-1,EPL: Astro SuperSport 5 HD
+http://iptvport.net:80/Claire2342/Claire3333/2276084.m3u8
+#EXTINF:-1,UK ITV 3 HD
+http://iptvport.net:80/Claire2342/Claire3333/199506.m3u8
+#EXTINF:-1,UK BBC 3
+http://iptvport.net:80/Claire2342/Claire3333/1851507.m3u8
+#EXTINF:-1,EPL: Astro SuperSport 2 HD
+http://iptvport.net:80/Claire2342/Claire3333/1391036.m3u8
+#EXTINF:-1,EPL: Astro SuperSport 3 HD
+http://iptvport.net:80/Claire2342/Claire3333/1391037.m3u8
+#EXTINF:-1,UK Sky Cinema SciFi & Horror
+http://iptvport.net:80/Claire2342/Claire3333/391355.m3u8
+#EXTINF:-1,IR: RTE 2
+http://iptvport.net:80/Claire2342/Claire3333/189992.m3u8
+#EXTINF:-1,EPL: Optus Sport 1
+http://iptvport.net:80/Claire2342/Claire3333/1391039.m3u8
+#EXTINF:-1,UK Sky Cinema Animation
+http://iptvport.net:80/Claire2342/Claire3333/2104320.m3u8
+#EXTINF:-1,EPL: Astro SuperSport 4 HD
+http://iptvport.net:80/Claire2342/Claire3333/1391038.m3u8
+#EXTINF:-1,UK Yesterday HD
+http://iptvport.net:80/Claire2342/Claire3333/190028.m3u8
+#EXTINF:-1,UK SKY WITNESS
+http://iptvport.net:80/Claire2342/Claire3333/391344.m3u8
+#EXTINF:-1,UK ITV 2
+http://iptvport.net:80/Claire2342/Claire3333/2620946.m3u8
+#EXTINF:-1,SG HubPremier 1
+http://iptvport.net:80/Claire2342/Claire3333/2688447.m3u8
+#EXTINF:-1,SG HubPremier 2
+http://iptvport.net:80/Claire2342/Claire3333/2688448.m3u8
+#EXTINF:-1,SG HubPremier 3
+http://iptvport.net:80/Claire2342/Claire3333/2688449.m3u8
+#EXTINF:-1,SG HubPremier 4
+http://iptvport.net:80/Claire2342/Claire3333/2688450.m3u8
+#EXTINF:-1,SG HubPremier 5
+http://iptvport.net:80/Claire2342/Claire3333/2688451.m3u8
+#EXTINF:-1,SG HubPremier 6
+http://iptvport.net:80/Claire2342/Claire3333/2688452.m3u8
+#EXTINF:-1,SG HubPremier 7
+http://iptvport.net:80/Claire2342/Claire3333/2688453.m3u8
+#EXTINF:-1,SG HubPremier 8
+http://iptvport.net:80/Claire2342/Claire3333/2688454.m3u8
+#EXTINF:-1,SG HubPremier 9
+http://iptvport.net:80/Claire2342/Claire3333/2688455.m3u8
+#EXTINF:-1,SG HubPremier 10
+http://iptvport.net:80/Claire2342/Claire3333/2688456.m3u8
+#EXTINF:-1,SG HubPremier 11
+http://iptvport.net:80/Claire2342/Claire3333/2688457.m3u8
+#EXTINF:-1,Carib CSport 2
+http://iptvport.net:80/Claire2342/Claire3333/2688460.m3u8
+#EXTINF:-1,UK CineBox Action
+http://iptvport.net:80/Claire2342/Claire3333/2696384.m3u8
+#EXTINF:-1,UK CineBox Family
+http://iptvport.net:80/Claire2342/Claire3333/2696443.m3u8
+#EXTINF:-1,UK CineBox Comedy
+http://iptvport.net:80/Claire2342/Claire3333/2696444.m3u8
+#EXTINF:-1,IR: TG4
+http://iptvport.net:80/Claire2342/Claire3333/2696843.m3u8
+#EXTINF:-1,UK BBC One Yorkshire
+http://iptvport.net:80/Claire2342/Claire3333/2702084.m3u8
+#EXTINF:-1,Sky SPORTS CRICKET
+http://iptvport.net:80/Claire2342/Claire3333/2210032.m3u8
+#EXTINF:-1,UK Quest
+http://iptvport.net:80/Claire2342/Claire3333/391501.m3u8
+#EXTINF:-1,UK CBS Reality
+http://iptvport.net:80/Claire2342/Claire3333/189918.m3u8
+#EXTINF:-1,UK MotorRacing
+http://iptvport.net:80/Claire2342/Claire3333/2416036.m3u8
+#EXTINF:-1,UK SKY CINEMA SELECT FHD
+http://iptvport.net:80/Claire2342/Claire3333/391354.m3u8
+#EXTINF:-1,UK CHALLENGE TV
+http://iptvport.net:80/Claire2342/Claire3333/391270.m3u8
+#EXTINF:-1,UK UTV Northern Ireland
+http://iptvport.net:80/Claire2342/Claire3333/190025.m3u8
+#EXTINF:-1,UK LFC TV
+http://iptvport.net:80/Claire2342/Claire3333/189963.m3u8
+#EXTINF:-1,UK: TALK TV
+http://iptvport.net:80/Claire2342/Claire3333/2766897.m3u8
+#EXTINF:-1,UK TNT Sports 5
+http://iptvport.net:80/Claire2342/Claire3333/2768374.m3u8
+#EXTINF:-1,UK Sky Nature
+http://iptvport.net:80/Claire2342/Claire3333/2769000.m3u8
+#EXTINF:-1,UK Premier Sports 1 FHD
+http://iptvport.net:80/Claire2342/Claire3333/229003.m3u8
+#EXTINF:-1,EPL: Optus Sport 7
+http://iptvport.net:80/Claire2342/Claire3333/1391045.m3u8
+#EXTINF:-1,UK BBC One North West
+http://iptvport.net:80/Claire2342/Claire3333/2781495.m3u8
+#EXTINF:-1,Carib CSport
+http://iptvport.net:80/Claire2342/Claire3333/2830204.m3u8
+#EXTINF:-1,UK E4 Extra
+http://iptvport.net:80/Claire2342/Claire3333/2843037.m3u8
+#EXTINF:-1,UK BBC One South
+http://iptvport.net:80/Claire2342/Claire3333/2848953.m3u8
+#EXTINF:-1,UK BBC One (East Midlands)
+http://iptvport.net:80/Claire2342/Claire3333/2849967.m3u8
+#EXTINF:-1,UK Paramount Network
+http://iptvport.net:80/Claire2342/Claire3333/2853539.m3u8
+#EXTINF:-1,UK Sky Crime
+http://iptvport.net:80/Claire2342/Claire3333/190019.m3u8
+#EXTINF:-1,UK Premier Sports 2
+http://iptvport.net:80/Claire2342/Claire3333/2863935.m3u8
